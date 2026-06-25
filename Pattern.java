@@ -1,4 +1,4 @@
-class PatternDemo {
+class Pattern{
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
 
